@@ -1,0 +1,1 @@
+package ru.gin.webservice.infrastructure.persistence.store.repository;

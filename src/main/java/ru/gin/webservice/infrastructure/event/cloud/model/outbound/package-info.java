@@ -1,0 +1,1 @@
+package ru.gin.webservice.infrastructure.event.cloud.model.outbound;

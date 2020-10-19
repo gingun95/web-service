@@ -1,0 +1,1 @@
+package ru.gin.webservice.boot.config.properties;
